@@ -1,4 +1,6 @@
-# kdd_cup_2009_crm_prediction_basic
+# kdd_cup_2009_crm_prediction
+
+## data_analysis_training_and_results.ipynb
 
 - This is the first attempt to study KDD CUP dataset from 2009 and make some models to predict CRM metrics based on predecessors consumers.
 
